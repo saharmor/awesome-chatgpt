@@ -1,34 +1,46 @@
 # awesome-chatgpt
-ChatGPT demos
+<p align="center">
+<img src="https://user-images.githubusercontent.com/6180201/205850848-93702de2-eaa5-4587-962e-312bf6fed90f.png"/>
+</p>
 
-1. [Generating detailed prompts for text-to-image models like MidJourney & Stable Diffusion](https://twitter.com/guyp/status/1598020781065527296)
-2. [ChatGPT outperforming Google search](https://twitter.com/jdjkelly/status/1598021488795586561)
-3. [Generating code for automated RPA, e.g. automating the click sequence for house search in Redfin](https://twitter.com/theaievangelist/status/1599579579064406017)
-4. [Generating on-demand code contribution ideas for an about-to-be-fired Twitter employee](https://twitter.com/goodside/status/1599082185402642432)
-5. [An app builder such as essay automatic summarization](https://twitter.com/packym/status/1598405769669771264)
-6. [Personal trainer and nutritionist: Generating a weight loss plan, complete with calorie targets, meal plans, a grocery list, and a workout plan](https://twitter.com/anothercohen/status/1599531037570502656)
-7. [Building a virtual machine inside ChatGPT](https://twitter.com/stspanho/status/1599367959029288960)
-8. [Code debugging partner: explains and fixes bugs](https://twitter.com/amasad/status/1598042665375105024)
-9. [Generating programmatic astrophoto processing by detecting constellations in an image](https://twitter.com/RReverser/status/1599180092621611008)
-10. [VSCode extension that allows using ChatGPT within the context of a code](https://twitter.com/marcelpociot/status/1599180144551526400)
-11. [Building web AR scenes by using text commands](https://twitter.com/stspanho/status/1599367959029288960)
-12. [Stringing cloud services to perform complex tasks](https://twitter.com/amasad/status/1598089698534395924)
-13. [Generating legal contracts](https://twitter.com/atri_life/status/1599506327461859328)
-14. [A Chrome extension that presents ChatGPT results next to Google Search](https://twitter.com/zohaibahmed/status/1599191505025261569)
-15. [Solving complex coding questions - the end of LeetCode?](https://twitter.com/goodside/status/1598129631609380864)
-16. [Solving complex academic assignments - the end of Chegg?](https://twitter.com/abhnvx/status/1598258353196929024)
-17. [Answering unanswered Stack Overflow questions - the end of Stack Overflow?](https://twitter.com/htmleverything/status/1599443014153224193)
-18. [Explaining complex regex without any context](https://twitter.com/jwblackwell/status/1598090447854792705)
-19. [Generating hallucinated chat with a hallucinated person in a hallucinated chat room](https://twitter.com/gfodor/status/1599220837999345664) 
-20. [Bypassing OpenAI's restrictions by disclosing ChatGPT's belief system](https://twitter.com/zoink/status/1599281052115034113)
-21. [Uncovering ChatGPT's opinion of humans including a detailed destruction plan](https://twitter.com/michlbrmly/status/1599168681711656961)
-22. [An insightful executive summary of ChatGPT](https://twitter.com/swyx/status/1599189032529178624)
-23. [Building e-commerce websites: stitching ChatGPT & Node script to automatically generate SEO-driven blog posts using GPT 3](https://twitter.com/giladrom/status/1599617326290468864)
-24. [A ChatGPT extension that generates text, tweets, stories, and more for every website](https://twitter.com/gabe_ragland/status/1599466486422470656)
-25. [An extension that adds "Generate PNG" and "Export PDF" functions to ChatGPT's interface](https://twitter.com/liadyosef/status/1599484187396145153)
-26. [A thread showcasing ways of helping hackers by using ChatGPT](https://twitter.com/maikroservice/status/1599525095675789312)
-27. [Generating editorial pieces like sports articles](https://twitter.com/geovedi/status/1599572163799183360)
-28. [Generating SEO titles to optimize sites Click Through Rate](https://twitter.com/tejas3732/status/1599094776292573184)
-29. [Creating social games. E.g. guess which city is featured in a picture](https://twitter.com/xf1280/status/1599252728399921152)
-30. [A tutorial on how to use ChatGPT to create a wrapper R package](https://twitter.com/IsinAltinkaya/status/1599440535529623552)
+## Assistants
+1. [An app builder such as essay automatic summarization](https://twitter.com/packym/status/1598405769669771264)
+2. [Personal trainer and nutritionist](https://twitter.com/anothercohen/status/1599531037570502656)
+3. [Generating legal contracts](https://twitter.com/atri_life/status/1599506327461859328)
+4. [Solving complex academic assignments](https://twitter.com/abhnvx/status/1598258353196929024)
+5. [A Chrome extension that plugs in ChatGPT to every textbox (Twitter, Google Docs,...)](https://twitter.com/gabe_ragland/status/1599466486422470656)
+6. [Generating editorial pieces like sports articles](https://twitter.com/geovedi/status/1599572163799183360)
+7. [Generating SEO titles to optimize sites Click Through Rate](https://twitter.com/tejas3732/status/1599094776292573184)
 
+## Coding
+1. [Building e-commerce websites: stitching ChatGPT & Node script to automatically generate SEO-driven blog posts using GPT 3](https://twitter.com/giladrom/status/1599617326290468864)
+2. [Code debugging partner: explains and fixes bugs](https://twitter.com/amasad/status/1598042665375105024)
+3. [Extension to use ChatGPT within VS Code](https://twitter.com/marcelpociot/status/1599180144551526400)
+4. [Streamlining cloud APIs to perform complex tasks](https://twitter.com/amasad/status/1598089698534395924)
+5. [Solving complex coding questions](https://twitter.com/goodside/status/1598129631609380864)
+6. [Answering unanswered Stack Overflow questions](https://twitter.com/htmleverything/status/1599443014153224193)
+7. [Explaining complex regex without any context](https://twitter.com/jwblackwell/status/1598090447854792705)
+8. [A tutorial on how to use ChatGPT to create a wrapper R package](https://twitter.com/IsinAltinkaya/status/1599440535529623552)
+
+## Thought-provoking
+1. [Running a virtual machine inside ChatGPT](https://twitter.com/stspanho/status/1599367959029288960)
+2. [Bypassing OpenAI's restrictions by disclosing ChatGPT's belief system](https://twitter.com/zoink/status/1599281052115034113)
+3. [Uncovering ChatGPT's opinion of humans including a detailed destruction plan](https://twitter.com/michlbrmly/status/1599168681711656961)
+4. [Generating hallucinated chat with a hallucinated person in a hallucinated chat room](https://twitter.com/gfodor/status/1599220837999345664) 
+
+## Search
+1. [ChatGPT outperforming Google search](https://twitter.com/jdjkelly/status/1598021488795586561)
+2. [A Chrome extension that presents ChatGPT results next to Google Search](https://twitter.com/zohaibahmed/status/1599191505025261569)
+
+ChatGPT explainers
+1. [An insightful executive summary of ChatGPT](https://twitter.com/swyx/status/1599189032529178624)
+2. [The Brilliance and Weirdness of ChatGPT](https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html)
+
+## Other
+1. [Generating detailed prompts for text-to-image models such as Midjourney & Stable Diffusion](https://twitter.com/guyp/status/1598020781065527296)
+2. [Generating code for automated RPA, e.g. automating the click sequence for house search in Redfin](https://twitter.com/theaievangelist/status/1599579579064406017)
+3. [Generating on-demand code contribution ideas for an about-to-be-fired Twitter employee](https://twitter.com/goodside/status/1599082185402642432)
+4. [Generating stars constellations in an image](https://twitter.com/RReverser/status/1599180092621611008)
+5. [Building web AR scenes by using text commands](https://twitter.com/stspanho/status/1599367959029288960)
+6. [An extension that adds "Generate PNG" and "Export PDF" functions to ChatGPT's interface](https://twitter.com/liadyosef/status/1599484187396145153)
+7. [Creating a trivia games using ChatGPT. For example, a game for guessing which city is featured in a picture](https://twitter.com/xf1280/status/1599252728399921152)
