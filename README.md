@@ -22,3 +22,13 @@ ChatGPT demos
 19. [Generating hallucinated chat with a hallucinated person in a hallucinated chat room](https://twitter.com/gfodor/status/1599220837999345664) 
 20. [Bypassing OpenAI's restrictions by disclosing ChatGPT's belief system](https://twitter.com/zoink/status/1599281052115034113)
 21. [Uncovering ChatGPT's opinion of humans including a detailed destruction plan](https://twitter.com/michlbrmly/status/1599168681711656961)
+22. [An insightful executive summary of ChatGPT](https://twitter.com/swyx/status/1599189032529178624)
+23. [Building e-commerce websites: stitching ChatGPT & Node script to automatically generate SEO-driven blog posts using GPT 3](https://twitter.com/giladrom/status/1599617326290468864)
+24. [A ChatGPT extension that generates text, tweets, stories, and more for every website](https://twitter.com/gabe_ragland/status/1599466486422470656)
+25. [An extension that adds "Generate PNG" and "Export PDF" functions to ChatGPT's interface](https://twitter.com/liadyosef/status/1599484187396145153)
+26. [A thread showcasing ways of helping hackers by using ChatGPT](https://twitter.com/maikroservice/status/1599525095675789312)
+27. [Generating editorial pieces like sports articles](https://twitter.com/geovedi/status/1599572163799183360)
+28. [Generating SEO titles to optimize sites Click Through Rate](https://twitter.com/tejas3732/status/1599094776292573184)
+29. [Creating social games. E.g. guess which city is featured in a picture](https://twitter.com/xf1280/status/1599252728399921152)
+30. [A tutorial on how to use ChatGPT to create a wrapper R package](https://twitter.com/IsinAltinkaya/status/1599440535529623552)
+
