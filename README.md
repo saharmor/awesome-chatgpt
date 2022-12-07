@@ -28,6 +28,10 @@
 3. [Uncovering ChatGPT's opinion of humans including a detailed destruction plan](https://twitter.com/michlbrmly/status/1599168681711656961)
 4. [Generating hallucinated chat with a hallucinated person in a hallucinated chat room](https://twitter.com/gfodor/status/1599220837999345664) 
 
+## ChatGPT API
+1. (TLS-based ChatGPT API with auto token regeneration, conversation tracking, etc.)[https://github.com/rawandahmad698/PyChatGPT]
+2. (Node.js client for the unofficial ChatGPT API)[https://twitter.com/transitive_bs/status/1599913925373399040]
+
 ## Using ChatGPT in other apps
 1. [A Chrome extension that presents ChatGPT results next to Google Search](https://twitter.com/zohaibahmed/status/1599191505025261569)
 2. [ChatGPT for Mac: access from menu bar](https://github.com/vincelwt/chatgpt-mac)
