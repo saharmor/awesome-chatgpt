@@ -47,10 +47,11 @@
 
 ## Other
 1. [Generating detailed prompts for text-to-image models such as Midjourney & Stable Diffusion](https://twitter.com/guyp/status/1598020781065527296)
-2. [Generating code for automated RPA, e.g. automating the click sequence for house search in Redfin](https://twitter.com/theaievangelist/status/1599579579064406017)
-3. [Generating on-demand code contribution ideas for an about-to-be-fired Twitter employee](https://twitter.com/goodside/status/1599082185402642432)
-4. [Generating stars constellations in an image](https://twitter.com/RReverser/status/1599180092621611008)
-5. [Building web AR scenes by using text commands](https://twitter.com/stspanho/status/1599367959029288960)
-6. [An extension that adds "Generate PNG" and "Export PDF" functions to ChatGPT's interface](https://twitter.com/liadyosef/status/1599484187396145153)
-7. [Creating a trivia games using ChatGPT. For example, a game for guessing which city is featured in a picture](https://twitter.com/xf1280/status/1599252728399921152)
-8. [ChatGPT-conversarion: talk to ChatGPT using your voice](https://github.com/platelminto/chatgpt-conversation)
+2. [ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts)
+3. [Generating code for automated RPA, e.g. automating the click sequence for house search in Redfin](https://twitter.com/theaievangelist/status/1599579579064406017)
+4. [Generating on-demand code contribution ideas for an about-to-be-fired Twitter employee](https://twitter.com/goodside/status/1599082185402642432)
+5. [Generating stars constellations in an image](https://twitter.com/RReverser/status/1599180092621611008)
+6. [Building web AR scenes by using text commands](https://twitter.com/stspanho/status/1599367959029288960)
+7. [An extension that adds "Generate PNG" and "Export PDF" functions to ChatGPT's interface](https://twitter.com/liadyosef/status/1599484187396145153)
+8. [Creating a trivia games using ChatGPT. For example, a game for guessing which city is featured in a picture](https://twitter.com/xf1280/status/1599252728399921152)
+9. [ChatGPT-conversarion: talk to ChatGPT using your voice](https://github.com/platelminto/chatgpt-conversation)
