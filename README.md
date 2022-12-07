@@ -41,6 +41,7 @@
 6. [ChatGPT Twitter bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot)
 7. [docGPT, ChatGPT for Google Doc](https://twitter.com/cesarhuret/status/1599602487102562304)
 8. [A browser extension that augments your ChatGPT prompts with web results](https://twitter.com/hahahahohohe/status/1599839969396154369)
+9. [ChatGPT Discord bot](https://github.com/Zero6992/chatGPT-discord-bot)
 
 ## Search
 1. [ChatGPT outperforming Google search](https://twitter.com/jdjkelly/status/1598021488795586561)
@@ -59,3 +60,4 @@
 7. [An extension that adds "Generate PNG" and "Export PDF" functions to ChatGPT's interface](https://twitter.com/liadyosef/status/1599484187396145153)
 8. [Creating a trivia games using ChatGPT. For example, a game for guessing which city is featured in a picture](https://twitter.com/xf1280/status/1599252728399921152)
 9. [ChatGPT-conversarion: talk to ChatGPT using your voice](https://github.com/platelminto/chatgpt-conversation)
+10. [The Chinese version of AI dungeon using ChatGPT as the storytelling model](https://github.com/bupticybee/ChineseAiDungeonChatGPT)
