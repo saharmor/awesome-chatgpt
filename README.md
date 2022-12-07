@@ -28,9 +28,18 @@
 3. [Uncovering ChatGPT's opinion of humans including a detailed destruction plan](https://twitter.com/michlbrmly/status/1599168681711656961)
 4. [Generating hallucinated chat with a hallucinated person in a hallucinated chat room](https://twitter.com/gfodor/status/1599220837999345664) 
 
+## Using ChatGPT in other apps
+1. [A Chrome extension that presents ChatGPT results next to Google Search](https://twitter.com/zohaibahmed/status/1599191505025261569)
+2. [ChatGPT for Mac: access from menu bar](https://github.com/vincelwt/chatgpt-mac)
+3. [ChatGPT Chrome extension](https://twitter.com/kazuki_sf_/status/1598955169576013825)
+4. [ChatGPT WhatsApp bot](https://twitter.com/danielgross/status/1598735800497119232)
+5. [ChatGPT Telegram bot](https://twitter.com/altryne/status/1598822052760195072)
+6. [ChatGPT Twitter bot](https://github.com/transitive-bullshit/chatgpt-twitter-bot)
+7. [docGPT, ChatGPT for Google Doc](https://twitter.com/cesarhuret/status/1599602487102562304)
+8. [A browser extension that augments your ChatGPT prompts with web results](https://twitter.com/hahahahohohe/status/1599839969396154369)
+
 ## Search
 1. [ChatGPT outperforming Google search](https://twitter.com/jdjkelly/status/1598021488795586561)
-2. [A Chrome extension that presents ChatGPT results next to Google Search](https://twitter.com/zohaibahmed/status/1599191505025261569)
 
 ChatGPT explainers
 1. [An insightful executive summary of ChatGPT](https://twitter.com/swyx/status/1599189032529178624)
@@ -44,3 +53,4 @@ ChatGPT explainers
 5. [Building web AR scenes by using text commands](https://twitter.com/stspanho/status/1599367959029288960)
 6. [An extension that adds "Generate PNG" and "Export PDF" functions to ChatGPT's interface](https://twitter.com/liadyosef/status/1599484187396145153)
 7. [Creating a trivia games using ChatGPT. For example, a game for guessing which city is featured in a picture](https://twitter.com/xf1280/status/1599252728399921152)
+8. [ChatGPT-conversarion: talk to ChatGPT using your voice](https://github.com/platelminto/chatgpt-conversation)
