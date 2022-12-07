@@ -41,7 +41,7 @@
 ## Search
 1. [ChatGPT outperforming Google search](https://twitter.com/jdjkelly/status/1598021488795586561)
 
-ChatGPT explainers
+## ChatGPT explainers
 1. [An insightful executive summary of ChatGPT](https://twitter.com/swyx/status/1599189032529178624)
 2. [The Brilliance and Weirdness of ChatGPT](https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html)
 
