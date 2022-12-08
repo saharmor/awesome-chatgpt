@@ -50,6 +50,10 @@
 1. [An insightful executive summary of ChatGPT](https://twitter.com/swyx/status/1599189032529178624)
 2. [The Brilliance and Weirdness of ChatGPT](https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html)
 
+## Conversational
+1. [An artist trains a chatbot using past notes and diaries to talk to her inner child](https://twitter.com/michellehuang42/status/1597005489413713921)
+2. [ChatGPT-conversation: talk to ChatGPT using your voice](https://github.com/platelminto/chatgpt-conversation)
+
 ## Other
 1. [Generating detailed prompts for text-to-image models such as Midjourney & Stable Diffusion](https://twitter.com/guyp/status/1598020781065527296)
 2. [ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts)
@@ -59,5 +63,4 @@
 6. [Building web AR scenes by using text commands](https://twitter.com/stspanho/status/1599367959029288960)
 7. [An extension that adds "Generate PNG" and "Export PDF" functions to ChatGPT's interface](https://twitter.com/liadyosef/status/1599484187396145153)
 8. [Creating a trivia game using ChatGPT. For example, a game for guessing which city is featured in a picture](https://twitter.com/xf1280/status/1599252728399921152)
-9. [ChatGPT-conversation: talk to ChatGPT using your voice](https://github.com/platelminto/chatgpt-conversation)
-10. [The Chinese version of AI dungeon using ChatGPT as the storytelling model](https://github.com/bupticybee/ChineseAiDungeonChatGPT)
+9. [The Chinese version of AI dungeon using ChatGPT as the storytelling model](https://github.com/bupticybee/ChineseAiDungeonChatGPT)
