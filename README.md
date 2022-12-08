@@ -23,7 +23,7 @@
 8. [A tutorial on how to use ChatGPT to create a wrapper R package](https://twitter.com/IsinAltinkaya/status/1599440535529623552)
 
 ## Thought-provoking
-1. [Running a virtual machine inside ChatGPT](https://twitter.com/stspanho/status/1599367959029288960)
+1. [Running a virtual machine inside ChatGPT](https://twitter.com/317070/status/1599152176344928256)
 2. [Bypassing OpenAI's restrictions by disclosing ChatGPT's belief system](https://twitter.com/zoink/status/1599281052115034113)
 3. [Uncovering ChatGPT's opinion of humans including a detailed destruction plan](https://twitter.com/michlbrmly/status/1599168681711656961)
 4. [Generating hallucinated chat with a hallucinated person in a hallucinated chat room](https://twitter.com/gfodor/status/1599220837999345664) 
