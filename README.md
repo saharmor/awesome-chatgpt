@@ -4,7 +4,7 @@
 </p>
 
 ## Assistants
-1. [An app builder such as essay automatic summarization](https://twitter.com/packym/status/1598405769669771264)
+1. [An app builder such as an essay automated summarizer](https://twitter.com/packym/status/1598405769669771264)
 2. [Personal trainer and nutritionist](https://twitter.com/anothercohen/status/1599531037570502656)
 3. [Generating legal contracts](https://twitter.com/atri_life/status/1599506327461859328)
 4. [Solving complex academic assignments](https://twitter.com/abhnvx/status/1598258353196929024)
@@ -58,6 +58,6 @@
 5. [Generating stars constellations in an image](https://twitter.com/RReverser/status/1599180092621611008)
 6. [Building web AR scenes by using text commands](https://twitter.com/stspanho/status/1599367959029288960)
 7. [An extension that adds "Generate PNG" and "Export PDF" functions to ChatGPT's interface](https://twitter.com/liadyosef/status/1599484187396145153)
-8. [Creating a trivia games using ChatGPT. For example, a game for guessing which city is featured in a picture](https://twitter.com/xf1280/status/1599252728399921152)
-9. [ChatGPT-conversarion: talk to ChatGPT using your voice](https://github.com/platelminto/chatgpt-conversation)
+8. [Creating a trivia game using ChatGPT. For example, a game for guessing which city is featured in a picture](https://twitter.com/xf1280/status/1599252728399921152)
+9. [ChatGPT-conversation: talk to ChatGPT using your voice](https://github.com/platelminto/chatgpt-conversation)
 10. [The Chinese version of AI dungeon using ChatGPT as the storytelling model](https://github.com/bupticybee/ChineseAiDungeonChatGPT)
