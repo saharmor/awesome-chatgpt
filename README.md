@@ -14,6 +14,7 @@
 8. [docGPT, ChatGPT for Google Doc](https://twitter.com/cesarhuret/status/1599602487102562304)
 9. [A browser extension that augments your ChatGPT prompts with web results](https://twitter.com/hahahahohohe/status/1599839969396154369)
 10. [ChatGPT Discord bot](https://github.com/Zero6992/chatGPT-discord-bot)
+11. [A GPTChat based GitHub robot for dialogue, code reviews, etc.](https://github.com/oceanlvr/ChatGPT-ProBot)
 
 ## Assistants
 1. [An app builder such as an essay automated summarizer](https://twitter.com/packym/status/1598405769669771264)
@@ -24,6 +25,7 @@
 6. [Generating editorial pieces like sports articles](https://twitter.com/geovedi/status/1599572163799183360)
 7. [Generating SEO titles to optimize sites Click Through Rate](https://twitter.com/tejas3732/status/1599094776292573184)
 8. [Summarize web pages using OpenAI ChatGPT](https://github.com/clmnin/summarize.site)
+9. [emailGPT - a quick and easy interface to generate emails with ChatGPT](https://github.com/lucasmccabe/emailGPT)
 
 ## Coding
 1. [Building e-commerce websites: stitching ChatGPT & Node script to automatically generate SEO-driven blog posts using GPT 3](https://twitter.com/giladrom/status/1599617326290468864)
