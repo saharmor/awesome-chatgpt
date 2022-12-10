@@ -1,6 +1,6 @@
 # awesome-chatgpt
 <p align="center">
-<img src="https://user-images.githubusercontent.com/6180201/205850848-93702de2-eaa5-4587-962e-312bf6fed90f.png"/>
+<img width="1078" alt="image" src="https://user-images.githubusercontent.com/6180201/206826731-2e72ea17-4616-4004-ab26-65a6e76c5d4c.png">
 </p>
 
 ## Using ChatGPT in other apps
