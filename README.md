@@ -2,6 +2,7 @@
 <p align="center">
 <img width="1078" alt="image" src="https://user-images.githubusercontent.com/6180201/206826731-2e72ea17-4616-4004-ab26-65a6e76c5d4c.png">
 </p>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=saharmor.awesome-chatgpt&left_color=green&right_color=red)
 
 ## Using ChatGPT in other apps
 1. [A Chrome extension that presents ChatGPT results next to Google Search](https://twitter.com/zohaibahmed/status/1599191505025261569)
