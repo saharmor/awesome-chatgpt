@@ -67,3 +67,4 @@
 8. [Creating a trivia game using ChatGPT. For example, a game for guessing which city is featured in a picture](https://twitter.com/xf1280/status/1599252728399921152)
 9. [The Chinese version of AI dungeon using ChatGPT as the storytelling model](https://github.com/bupticybee/ChineseAiDungeonChatGPT)
 10. [ChatGPT outperforming Google search](https://twitter.com/jdjkelly/status/1598021488795586561)
+11. [ChatRPG — A Text Adventure Game with an Inventory and Health System using ChatGPT](https://medium.com/@seanhugg/chatrpg-a-text-adventure-game-with-an-inventory-and-health-system-using-chatgpt-d49d0969931c)
