@@ -18,6 +18,7 @@
 9. [A browser extension that augments your ChatGPT prompts with web results](https://twitter.com/hahahahohohe/status/1599839969396154369)
 10. [ChatGPT Discord bot](https://github.com/Zero6992/chatGPT-discord-bot)
 11. [A GPTChat based GitHub robot for dialogue, code reviews, etc.](https://github.com/oceanlvr/ChatGPT-ProBot)
+12. [GPT-3.5 powered terminal commands](https://github.com/Methexis-Inc/terminal-copilot)
 
 ## Assistants
 1. [An app builder such as an essay automated summarizer](https://twitter.com/packym/status/1598405769669771264)
