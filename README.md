@@ -63,7 +63,7 @@
 
 ## Other
 1. [Generating detailed prompts for text-to-image models such as Midjourney & Stable Diffusion](https://twitter.com/guyp/status/1598020781065527296)
-2. [ChatGPT prompts](https://github.com/f/awesome-chatgpt-prompts)
+2. [ChatGPT prompts](https://prompts.chat/)
 3. [Generating code for automated RPA, e.g. automating the click sequence for house search in Redfin](https://twitter.com/theaievangelist/status/1599579579064406017)
 4. [Generating on-demand code contribution ideas for an about-to-be-fired Twitter employee](https://twitter.com/goodside/status/1599082185402642432)
 5. [Generating stars constellations in an image](https://twitter.com/RReverser/status/1599180092621611008)
