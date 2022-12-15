@@ -54,6 +54,7 @@
 ## Conversational
 1. [An artist trains a chatbot using past notes and diaries to talk to her inner child](https://twitter.com/michellehuang42/status/1597005489413713921)
 2. [ChatGPT-conversation: talk to ChatGPT using your voice](https://github.com/platelminto/chatgpt-conversation)
+3. [Chat with ChatGPT using voice](https://huggingface.co/spaces/fffiloni/whisper-to-chatGPT)
 
 ## Thought-provoking
 1. [Running a virtual machine inside ChatGPT](https://twitter.com/317070/status/1599152176344928256)
