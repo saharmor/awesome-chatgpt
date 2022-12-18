@@ -5,6 +5,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=saharmor.awesome-chatgpt&left_color=green&right_color=red)
 
+This list is up to date. Last update: 12/18/22
 
 ## Using ChatGPT in other apps
 1. [A Chrome extension that presents ChatGPT results next to Google Search](https://twitter.com/zohaibahmed/status/1599191505025261569)
@@ -20,6 +21,7 @@
 11. [ChatGPT Discord bot](https://github.com/Zero6992/chatGPT-discord-bot)
 12. [A GPTChat based GitHub robot for dialogue, code reviews, etc.](https://github.com/oceanlvr/ChatGPT-ProBot)
 13. [GPT-3.5 powered terminal commands](https://github.com/Methexis-Inc/terminal-copilot)
+14. [Summarize YouTube videos](https://twitter.com/kazuki_sf_/status/1604422876014137345)
 
 ## Assistants
 1. [An app builder such as an essay automated summarizer](https://twitter.com/packym/status/1598405769669771264)
