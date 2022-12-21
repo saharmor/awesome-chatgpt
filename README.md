@@ -22,7 +22,7 @@ This list is up to date. Last update: 12/18/22
 12. [A GPTChat based GitHub robot for dialogue, code reviews, etc.](https://github.com/oceanlvr/ChatGPT-ProBot)
 13. [GPT-3.5 powered terminal commands](https://github.com/Methexis-Inc/terminal-copilot)
 14. [Summarize YouTube videos](https://twitter.com/kazuki_sf_/status/1604422876014137345)
-15. [GPT-3 LINE bot](https://github.com/memochou1993/gpt-ai-assistant)
+15. [GPT AI Assistant using LINE and Vercel](https://github.com/memochou1993/gpt-ai-assistant)
 
 ## Assistants
 1. [An app builder such as an essay automated summarizer](https://twitter.com/packym/status/1598405769669771264)
