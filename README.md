@@ -50,8 +50,9 @@ This list is up to date. Last update: 12/25/22
 
 ## ChatGPT API
 1. [Lightweight package for interacting with the ChatGPT API by reversing engineering the official API](https://github.com/acheong08/ChatGPT)
-1. [TLS-based ChatGPT API with auto token regeneration, conversation tracking, etc.](https://github.com/rawandahmad698/PyChatGPT)
-2. [Node.js client for the unofficial ChatGPT API](https://twitter.com/transitive_bs/status/1599913925373399040)
+2. [TLS-based ChatGPT API with auto token regeneration, conversation tracking, etc.](https://github.com/rawandahmad698/PyChatGPT)
+3. [Node.js client for the unofficial ChatGPT API](https://twitter.com/transitive_bs/status/1599913925373399040)
+4. [pyChatGPT - a Python client for the unofficial ChatGPT API](https://github.com/terry3041/pyChatGPT)
 
 ## ChatGPT explainers
 1. [An insightful executive summary of ChatGPT](https://twitter.com/swyx/status/1599189032529178624)
