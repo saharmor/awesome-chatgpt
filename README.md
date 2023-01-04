@@ -5,7 +5,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=saharmor.awesome-chatgpt&left_color=green&right_color=red)
 
-This list is up to date. Last update: 12/25/22
+This list is up to date. Last update: 01/03/22
 
 ## Using ChatGPT in other apps
 1. [A Chrome extension that presents ChatGPT results next to Google Search](https://twitter.com/zohaibahmed/status/1599191505025261569)
