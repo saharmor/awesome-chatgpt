@@ -10,7 +10,7 @@ This list is up to date. Last update: 01/07/22
 ## Featured
 1. [ChatGPT prompts](https://prompts.chat/)
 2. [Publicly announced ChatGPT variants and competitors](https://twitter.com/goodside/status/1606611869661384706)
-3. [A TikTok channel with many ChatGPT demos](https://www.tiktok.com/@jimmyslags_)
+3. [A TikTok channel with ChatGPT demos](https://www.tiktok.com/@jimmyslags_)
 
 ## Using ChatGPT in other apps
 1. [A Chrome extension that presents ChatGPT results next to Google Search](https://twitter.com/zohaibahmed/status/1599191505025261569)
