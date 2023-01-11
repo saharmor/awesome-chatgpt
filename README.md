@@ -34,16 +34,16 @@ This list is up to date. Last update: 01/11/22
 2. [Personal trainer and nutritionist](https://twitter.com/anothercohen/status/1599531037570502656)
 3. [Generating legal contracts](https://twitter.com/atri_life/status/1599506327461859328)
 4. [Solving complex academic assignments](https://twitter.com/abhnvx/status/1598258353196929024)
-5. [A Chrome extension that plugs in ChatGPT to every textbox (Twitter, Google Docs,...)](https://twitter.com/gabe_ragland/status/1599466486422470656)
+5. [A Chrome extension that plugs in ChatGPT to every textbox (Twitter, Google Docs, etc.)](https://twitter.com/gabe_ragland/status/1599466486422470656)
 6. [Generating editorial pieces like sports articles](https://twitter.com/geovedi/status/1599572163799183360)
 7. [Generating SEO titles to optimize sites Click Through Rate](https://twitter.com/tejas3732/status/1599094776292573184)
-8. [Summarize web pages using OpenAI ChatGPT](https://github.com/clmnin/summarize.site)
+8. ⭐️ [Summarize web pages using OpenAI ChatGPT](https://github.com/clmnin/summarize.site)
 9. [emailGPT - a quick and easy interface to generate emails with ChatGPT](https://github.com/lucasmccabe/emailGPT)
 
 ## Coding
 1. [Building e-commerce websites: stitching ChatGPT & Node script to automatically generate SEO-driven blog posts using GPT 3](https://twitter.com/giladrom/status/1599617326290468864)
-2. [Code debugging partner: explains and fixes bugs](https://twitter.com/amasad/status/1598042665375105024)
-3. [Extension to use ChatGPT within VS Code](https://twitter.com/marcelpociot/status/1599180144551526400)
+2. ⭐️ [Code debugging partner: explains and fixes bugs](https://twitter.com/amasad/status/1598042665375105024)
+3. ⭐️ [Extension to use ChatGPT within VS Code](https://twitter.com/marcelpociot/status/1599180144551526400)
 4. [Streamlining cloud APIs to perform complex tasks](https://twitter.com/amasad/status/1598089698534395924)
 5. [Solving complex coding questions](https://twitter.com/goodside/status/1598129631609380864)
 6. [Answering unanswered Stack Overflow questions](https://twitter.com/htmleverything/status/1599443014153224193)
@@ -51,32 +51,32 @@ This list is up to date. Last update: 01/11/22
 8. [A tutorial on how to use ChatGPT to create a wrapper R package](https://twitter.com/IsinAltinkaya/status/1599440535529623552)
 9. [Generate an entire WordPress plugin based on a simple description](https://twitter.com/johnofhousejohn/status/1599932681076473856)
 10. [Explain runtime error message with ChatGPT](https://github.com/shobrook/stackexplain)
-11. [PR code review using ChatGPT](https://github.com/kxxt/chatgpt-action)
+11. ⭐️ [PR code review using ChatGPT](https://github.com/kxxt/chatgpt-action)
 
 ## ChatGPT API
-1. [Lightweight package for interacting with the ChatGPT API by reversing engineering the official API](https://github.com/acheong08/ChatGPT)
+1. ⭐️ [Lightweight package for interacting with the ChatGPT API by reversing engineering the official API](https://github.com/acheong08/ChatGPT)
 2. [TLS-based ChatGPT API with auto token regeneration, conversation tracking, etc.](https://github.com/rawandahmad698/PyChatGPT)
 3. [Node.js client for the unofficial ChatGPT API](https://twitter.com/transitive_bs/status/1599913925373399040)
 4. [pyChatGPT - a Python client for the unofficial ChatGPT API](https://github.com/terry3041/pyChatGPT)
 
 ## ChatGPT explainers
-1. [An insightful executive summary of ChatGPT](https://twitter.com/swyx/status/1599189032529178624)
+1. ⭐️ [An insightful executive summary of ChatGPT](https://twitter.com/swyx/status/1599189032529178624)
 2. [The Brilliance and Weirdness of ChatGPT](https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html)
 
 ## Conversational
 1. [An artist trains a chatbot using past notes and diaries to talk to her inner child](https://twitter.com/michellehuang42/status/1597005489413713921)
 2. [ChatGPT-conversation: talk to ChatGPT using your voice](https://github.com/platelminto/chatgpt-conversation)
-3. [Chat with ChatGPT using voice](https://huggingface.co/spaces/fffiloni/whisper-to-chatGPT)
+3. [(Another) Chat with ChatGPT using voice](https://huggingface.co/spaces/fffiloni/whisper-to-chatGPT)
 
 ## Thought-provoking
-1. [Running a virtual machine inside ChatGPT](https://twitter.com/317070/status/1599152176344928256)
+1. ⭐️ [Running a virtual machine inside ChatGPT](https://twitter.com/317070/status/1599152176344928256)
 2. [Bypassing OpenAI's restrictions by disclosing ChatGPT's belief system](https://twitter.com/zoink/status/1599281052115034113)
 3. [Uncovering ChatGPT's opinion of humans including a detailed destruction plan](https://twitter.com/michlbrmly/status/1599168681711656961)
 4. [Generating hallucinated chat with a hallucinated person in a hallucinated chat room](https://twitter.com/gfodor/status/1599220837999345664) 
 
 ## Other
-1. [Generating detailed prompts for text-to-image models such as Midjourney & Stable Diffusion](https://twitter.com/guyp/status/1598020781065527296)
-2. [Generating code for automated RPA, e.g. automating the click sequence for house search in Redfin](https://twitter.com/theaievangelist/status/1599579579064406017)
+1. ⭐️ [Generating detailed prompts for text-to-image models such as Midjourney & Stable Diffusion](https://twitter.com/guyp/status/1598020781065527296)
+2. ⭐️ [Generating code for automated RPA, e.g. automating the click sequence for house search in Redfin](https://twitter.com/theaievangelist/status/1599579579064406017)
 3. [Generating on-demand code contribution ideas for an about-to-be-fired Twitter employee](https://twitter.com/goodside/status/1599082185402642432)
 4. [Generating stars constellations in an image](https://twitter.com/RReverser/status/1599180092621611008)
 5. [Building web AR scenes by using text commands](https://twitter.com/stspanho/status/1599367959029288960)
