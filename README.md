@@ -5,7 +5,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=saharmor.awesome-chatgpt&left_color=green&right_color=red)
 
-This list is up to date. Last update: 01/07/22
+This list is up to date. Last update: 01/11/22
 
 ## Featured
 1. [ChatGPT prompts](https://prompts.chat/)
@@ -86,3 +86,4 @@ This list is up to date. Last update: 01/07/22
 9. [ChatGPT outperforming Google search](https://twitter.com/jdjkelly/status/1598021488795586561)
 10. [ChatRPG — A Text Adventure Game with an Inventory and Health System using ChatGPT](https://medium.com/@seanhugg/chatrpg-a-text-adventure-game-with-an-inventory-and-health-system-using-chatgpt-d49d0969931c)
 11. [Share your wildest ChatGPT conversations with one click](https://github.com/domeccleston/sharegpt)
+12. ⭐️ [A comprehensive repository for everything prompt engineering, ChatGPT included](https://github.com/dair-ai/Prompt-Engineering-Guide)
