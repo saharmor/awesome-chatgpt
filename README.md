@@ -47,7 +47,7 @@ This list is up to date. Last update: 02/05/22
 7. [Generating SEO titles to optimize sites Click Through Rate](https://twitter.com/tejas3732/status/1599094776292573184)
 8. ⭐️ [Summarize web pages using OpenAI ChatGPT](https://github.com/clmnin/summarize.site)
 9. [emailGPT - a quick and easy interface to generate emails with ChatGPT](https://github.com/lucasmccabe/emailGPT)
-
+10. [b2p - a linux bash to powerShell translator base on ChatGPT](https://github.com/rximg/b2p)
 ## Coding
 1. [Building e-commerce websites: stitching ChatGPT & Node script to automatically generate SEO-driven blog posts using GPT 3](https://twitter.com/giladrom/status/1599617326290468864)
 2. ⭐️ [Code debugging partner: explains and fixes bugs](https://twitter.com/amasad/status/1598042665375105024)
