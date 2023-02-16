@@ -48,6 +48,7 @@ This list is up to date. Last update: 02/10/22
 8. ⭐️ [Summarize web pages using OpenAI ChatGPT](https://github.com/clmnin/summarize.site)
 9. [emailGPT - a quick and easy interface to generate emails with ChatGPT](https://github.com/lucasmccabe/emailGPT)
 10. [b2p - a linux bash to PowerShell translator using ChatGPT](https://github.com/rximg/b2p)
+11. [ai-commit - Automagically generate conventional commit messages with AI](https://github.com/guanguans/ai-commit)
 
 ## Coding
 1. [Building e-commerce websites: stitching ChatGPT & Node script to automatically generate SEO-driven blog posts using GPT 3](https://twitter.com/giladrom/status/1599617326290468864)
