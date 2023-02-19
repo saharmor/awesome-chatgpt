@@ -5,7 +5,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=saharmor.awesome-chatgpt&left_color=green&right_color=red)
 
-This list is up to date. Last update: 02/10/22
+This list is up to date. Last update: 02/18/22
 
 ## Featured
 1. [Publicly announced ChatGPT variants and competitors](https://twitter.com/goodside/status/1606611869661384706)
