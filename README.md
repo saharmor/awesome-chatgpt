@@ -3,8 +3,6 @@
 <img width="1078" alt="image" src="https://user-images.githubusercontent.com/6180201/206826731-2e72ea17-4616-4004-ab26-65a6e76c5d4c.png">
 </p>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=saharmor.awesome-chatgpt&left_color=green&right_color=red)
-
 This list is up to date. Last update: 02/18/22
 
 ## Featured
