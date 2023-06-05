@@ -3,7 +3,7 @@
 <img width="1078" alt="image" src="https://user-images.githubusercontent.com/6180201/206826731-2e72ea17-4616-4004-ab26-65a6e76c5d4c.png">
 </p>
 
-This list is up to date. Last update: 02/18/22
+This list is up to date. Last update: 06/03/23
 
 ## Featured
 1. [Publicly announced ChatGPT variants and competitors](https://twitter.com/goodside/status/1606611869661384706)
@@ -34,6 +34,8 @@ This list is up to date. Last update: 02/18/22
 14. [Summarize YouTube videos](https://twitter.com/kazuki_sf_/status/1604422876014137345)
 15. [GPT AI Assistant using LINE and Vercel](https://github.com/memochou1993/gpt-ai-assistant)
 16. [a ChatGPT like writing assistant for Chrome](https://chrome.google.com/webstore/detail/writingmate-1-chatgpt-wri/iihamopomflffiecicbgelncanmfionp)
+17. [ChatGPT for DuckDuckGo userscript](https://www.duckduckgpt.com)
+17. [ChatGPT for Brave Search userscript](https://www.bravegpt.com)
 
 ## Assistants
 1. [An app builder such as an essay automated summarizer](https://twitter.com/packym/status/1598405769669771264)
@@ -67,6 +69,9 @@ This list is up to date. Last update: 02/18/22
 3. [Node.js client for the unofficial ChatGPT API](https://twitter.com/transitive_bs/status/1599913925373399040)
 4. [pyChatGPT - a Python client for the unofficial ChatGPT API](https://github.com/terry3041/pyChatGPT)
 
+## ChatGPT client-side tools
+1. [chatgpt.js - a powerful client-side JavaScript library for ChatGPT](https://chatgpt.js.org)
+
 ## ChatGPT explainers
 1. ⭐️ [An insightful executive summary of ChatGPT](https://twitter.com/swyx/status/1599189032529178624)
 2. [The Brilliance and Weirdness of ChatGPT](https://www.nytimes.com/2022/12/05/technology/chatgpt-ai-twitter.html)
@@ -93,3 +98,8 @@ This list is up to date. Last update: 02/18/22
 9. [ChatGPT outperforming Google search](https://twitter.com/jdjkelly/status/1598021488795586561)
 10. [ChatRPG — A Text Adventure Game with an Inventory and Health System using ChatGPT](https://medium.com/@seanhugg/chatrpg-a-text-adventure-game-with-an-inventory-and-health-system-using-chatgpt-d49d0969931c)
 11. [Share your wildest ChatGPT conversations with one click](https://github.com/domeccleston/sharegpt)
+13. [Keep ChatGPT sessions fresh to avoid network errors + Cloudflare checks](https://chatgptevo.com/autorefresh)
+12. [Automatically continues multi-message responses](https://chatgptevo.com/autocontinue)
+12. [Generate endless answers to random questions (in any language!)](https://chatgptevo.com/infinity)
+13. [Add widescreen + full-window modes to ChatGPT](https://chatgptevo.com/widescreen)
+13. [Auto-clear ChatGPT history for more privacy](https://chatgptevo.com/autoclear)
