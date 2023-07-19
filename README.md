@@ -62,6 +62,7 @@ This list is up to date. Last update: 06/03/23
 9. [Generate an entire WordPress plugin based on a simple description](https://twitter.com/johnofhousejohn/status/1599932681076473856)
 10. [Explain runtime error message with ChatGPT](https://github.com/shobrook/stackexplain)
 11. ⭐️ [PR code review using ChatGPT](https://github.com/kxxt/chatgpt-action)
+12. [I Don't Care About Commit Message (VS Code Extension)](https://github.com/mefengl/vscode-i-dont-care-about-commit-message): Yet another AI git commit plugin, but without the need for manual confirmation.
 
 ## ChatGPT API
 1. ⭐️ [Lightweight package for interacting with the ChatGPT API by reversing engineering the official API](https://github.com/acheong08/ChatGPT)
