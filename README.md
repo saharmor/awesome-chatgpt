@@ -5,6 +5,8 @@
 
 This list is up to date. Last update: 06/03/23
 
+❗️ Click [here](https://www.notion.so/saharh/1e4a35681007464faaa7cc5fe00dbd34?v=0e2f8309375c4f8d885f6221354576f3) for a full list of open-source Generative AI libraries
+
 ## Featured
 1. [Publicly announced ChatGPT variants and competitors](https://twitter.com/goodside/status/1606611869661384706)
 2. [A TikTok channel with ChatGPT demos](https://www.tiktok.com/@jimmyslags_)
