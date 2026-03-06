@@ -106,3 +106,4 @@ This list is up to date. Last update: 06/03/23
 13. [Generate endless answers to random questions (in any language!)](https://chatgptevo.com/infinity)
 14. [Add widescreen + full-window modes to ChatGPT](https://chatgptevo.com/widescreen)
 15. [Auto-clear ChatGPT history for more privacy](https://chatgptevo.com/autoclear)
+16. [Free interactive curriculum for 21 agentic AI design patterns with code examples and interactive games](https://learnagenticpatterns.com)
