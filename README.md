@@ -8,6 +8,8 @@ This list is up to date. Last update: 06/03/23
 ❗️ Click [here](https://www.notion.so/saharh/1e4a35681007464faaa7cc5fe00dbd34?v=0e2f8309375c4f8d885f6221354576f3) for a full list of open-source Generative AI libraries
 
 ## Featured
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 1. [Publicly announced ChatGPT variants and competitors](https://twitter.com/goodside/status/1606611869661384706)
 2. [A TikTok channel with ChatGPT demos](https://www.tiktok.com/@jimmyslags_)
 3. [ChatGPT cheat sheet](https://drive.google.com/file/d/1OcHn2NWWnLGBCBLYsHg7xdOMVsehiuBK/view)
