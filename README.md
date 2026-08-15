@@ -104,5 +104,6 @@ This list is up to date. Last update: 06/03/23
 11. [Keep ChatGPT sessions fresh to avoid network errors + Cloudflare checks](https://chatgptevo.com/autorefresh)
 12. [Automatically continues multi-message responses](https://chatgptevo.com/autocontinue)
 13. [Generate endless answers to random questions (in any language!)](https://chatgptevo.com/infinity)
+14. [Eimu - Online GPT Image 2 & Nano Banana Pro image generator, no API key or relay setup required](https://eimu.art)
 14. [Add widescreen + full-window modes to ChatGPT](https://chatgptevo.com/widescreen)
 15. [Auto-clear ChatGPT history for more privacy](https://chatgptevo.com/autoclear)
